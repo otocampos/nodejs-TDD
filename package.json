@@ -1,0 +1,26 @@
+{
+  "name": "nodejs-tdd",
+  "version": "1.0.0",
+  "description": "projeto para aprendizagem de TDD",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/otocampos/nodejs-TDD.git"
+  },
+  "author": "oto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/otocampos/nodejs-TDD/issues"
+  },
+  "homepage": "https://github.com/otocampos/nodejs-TDD#readme",
+  "devDependencies": {
+    "jest": "^27.1.0",
+    "supertest": "^6.1.6"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
